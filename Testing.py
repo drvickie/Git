@@ -8,4 +8,6 @@ c = a + b
 print(c)
 
 #The next step
-print (c)
+d = "I am here for you"
+print (c + d)
+# what do you have?
