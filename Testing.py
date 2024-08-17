@@ -1,5 +1,6 @@
 #String Concatenation 
-# To concatenate, or combine, two strings you can use the + operator.
+# You can use the + operator to concatenate or combine two strings.
+#Check the example below.
 
 a = "Hello"
 b = "World"
